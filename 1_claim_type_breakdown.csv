@@ -1,0 +1,6 @@
+claim_type,total_billed_amount,total_paid_amount,total_claims,cost_rank
+Inpatient,1478601.25,1092456.00,99,1
+Emergency,384241.55,294441.36,88,2
+Outpatient,160717.75,129052.75,105,3
+Lab,25789.90,23412.35,76,4
+Pharmacy,12814.60,11382.45,81,5

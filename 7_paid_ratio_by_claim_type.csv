@@ -1,0 +1,6 @@
+claim_type,claim_count,avg_ratio,paid_ratio
+Inpatient,99,0.757,0.739
+Emergency,88,0.785,0.766
+Outpatient,105,0.836,0.803
+Pharmacy,81,0.887,0.888
+Lab,76,0.915,0.908
